@@ -1,3 +1,8 @@
-requests
-bs4
-html5lib
+# 综合每日报告依赖包
+numpy==1.24.3
+pandas==2.0.3
+akshare==1.17.35
+yfinance>=0.2.0
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+html5lib>=1.1
