@@ -6,3 +6,5 @@ yfinance>=0.2.0
 requests>=2.28.0
 beautifulsoup4>=4.11.0
 html5lib>=1.1
+tushare>=1.2.89
+lxml>=4.9.0

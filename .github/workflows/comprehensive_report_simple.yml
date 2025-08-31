@@ -48,3 +48,7 @@ jobs:
         APP_SECRET: ${{ secrets.APP_SECRET }}
         OPEN_ID: ${{ secrets.OPEN_ID }}
         TEMPLATE_ID: ${{ secrets.TEMPLATE_ID }}
+        TUSHARE_TOKEN: ${{ secrets.TUSHARE_TOKEN }}
+        HEFENG_KEY: ${{ secrets.HEFENG_KEY }}
+        HEFENG_HOST: ${{ secrets.HEFENG_HOST }}
+        HEFENG_PROJECT_ID: ${{ secrets.HEFENG_PROJECT_ID }}
